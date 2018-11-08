@@ -1,0 +1,6 @@
+{
+	"src_sass": "./src/sass/*.sass",
+	"src_scripts": "./src/js/*.js",
+	"src_dist": "./public",
+	"sass_options": "compressed"
+}
