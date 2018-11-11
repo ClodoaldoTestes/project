@@ -2,5 +2,5 @@
 	"src_sass": "./src/sass/*.sass",
 	"src_scripts": "./src/js/*.js",
 	"src_dist": "./dist",
-	"sass_options": "development"
+	"sass_options": "compressed"
 }
